@@ -1,0 +1,30 @@
+{
+  "name": "quicky.db",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node spec/test.js"
+  },
+    "dependencies": {
+    "better-sqlite3": "^7.4.1",
+    "lodash": "^4.17.21"
+  },
+  "keywords": [
+    "database",
+    "storing",
+    "db",
+    "values",
+    "easy",
+    "quicky",
+    "quick",
+    "sqlite",
+    "sqlite3",
+    "btter-sqlite"
+  ],
+  "repository": {
+      "url": "git://github.com/Omg85/quicky.db.git"
+  },
+  "author": "spikie",
+  "license": "MIT"
+}
